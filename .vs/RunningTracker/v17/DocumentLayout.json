@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ccv\\02 Development Projects\\RunningTracker\\RunningTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E6F9E1B-0A7D-4F85-9258-7B5980E96DF4}|RunningTracker.API\\RunningTracker.API.csproj|c:\\ccv\\02 development projects\\runningtracker\\runningtracker\\runningtracker.api\\controllers\\runningactivitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E6F9E1B-0A7D-4F85-9258-7B5980E96DF4}|RunningTracker.API\\RunningTracker.API.csproj|solutionrelative:runningtracker.api\\controllers\\runningactivitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E6F9E1B-0A7D-4F85-9258-7B5980E96DF4}|RunningTracker.API\\RunningTracker.API.csproj|c:\\ccv\\02 development projects\\runningtracker\\runningtracker\\runningtracker.api\\controllers\\userprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E6F9E1B-0A7D-4F85-9258-7B5980E96DF4}|RunningTracker.API\\RunningTracker.API.csproj|solutionrelative:runningtracker.api\\controllers\\userprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC51CAD4-A50F-42B1-ABD9-FE21F9346CF3}|RunningTracker.Tests\\RunningTracker.Tests.csproj|c:\\ccv\\02 development projects\\runningtracker\\runningtracker\\runningtracker.tests\\runningtrackertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC51CAD4-A50F-42B1-ABD9-FE21F9346CF3}|RunningTracker.Tests\\RunningTracker.Tests.csproj|solutionrelative:runningtracker.tests\\runningtrackertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49BB0F7B-808D-402C-8EAC-2798FE5D29E1}|RunningTracker.Infrastructure\\RunningTracker.Infrastructure.csproj|c:\\ccv\\02 development projects\\runningtracker\\runningtracker\\runningtracker.infrastructure\\repositories\\userprofilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49BB0F7B-808D-402C-8EAC-2798FE5D29E1}|RunningTracker.Infrastructure\\RunningTracker.Infrastructure.csproj|solutionrelative:runningtracker.infrastructure\\repositories\\userprofilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69E0A62-CD3F-45CF-92D9-2E9A0C4EC35A}|RunningTracker.Domain\\RunningTracker.Domain.csproj|c:\\ccv\\02 development projects\\runningtracker\\runningtracker\\runningtracker.domain\\entities\\runningactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69E0A62-CD3F-45CF-92D9-2E9A0C4EC35A}|RunningTracker.Domain\\RunningTracker.Domain.csproj|solutionrelative:runningtracker.domain\\entities\\runningactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49BB0F7B-808D-402C-8EAC-2798FE5D29E1}|RunningTracker.Infrastructure\\RunningTracker.Infrastructure.csproj|c:\\ccv\\02 development projects\\runningtracker\\runningtracker\\runningtracker.infrastructure\\persistence\\appdbcontextfactory .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49BB0F7B-808D-402C-8EAC-2798FE5D29E1}|RunningTracker.Infrastructure\\RunningTracker.Infrastructure.csproj|solutionrelative:runningtracker.infrastructure\\persistence\\appdbcontextfactory .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29807D1-BEFE-414D-A218-2B609CCCE5A3}|RunningTracker.Application\\RunningTracker.Application.csproj|c:\\ccv\\02 development projects\\runningtracker\\runningtracker\\runningtracker.application\\services\\userprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F29807D1-BEFE-414D-A218-2B609CCCE5A3}|RunningTracker.Application\\RunningTracker.Application.csproj|solutionrelative:runningtracker.application\\services\\userprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29807D1-BEFE-414D-A218-2B609CCCE5A3}|RunningTracker.Application\\RunningTracker.Application.csproj|c:\\ccv\\02 development projects\\runningtracker\\runningtracker\\runningtracker.application\\services\\runningactivityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F29807D1-BEFE-414D-A218-2B609CCCE5A3}|RunningTracker.Application\\RunningTracker.Application.csproj|solutionrelative:runningtracker.application\\services\\runningactivityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E6F9E1B-0A7D-4F85-9258-7B5980E96DF4}|RunningTracker.API\\RunningTracker.API.csproj|c:\\ccv\\02 development projects\\runningtracker\\runningtracker\\runningtracker.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E6F9E1B-0A7D-4F85-9258-7B5980E96DF4}|RunningTracker.API\\RunningTracker.API.csproj|solutionrelative:runningtracker.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E6F9E1B-0A7D-4F85-9258-7B5980E96DF4}|RunningTracker.API\\RunningTracker.API.csproj|c:\\ccv\\02 development projects\\runningtracker\\runningtracker\\runningtracker.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6E6F9E1B-0A7D-4F85-9258-7B5980E96DF4}|RunningTracker.API\\RunningTracker.API.csproj|solutionrelative:runningtracker.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 179,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RunningActivityController.cs",
+              "DocumentMoniker": "C:\\ccv\\02 Development Projects\\RunningTracker\\RunningTracker\\RunningTracker.API\\Controllers\\RunningActivityController.cs",
+              "RelativeDocumentMoniker": "RunningTracker.API\\Controllers\\RunningActivityController.cs",
+              "ToolTip": "C:\\ccv\\02 Development Projects\\RunningTracker\\RunningTracker\\RunningTracker.API\\Controllers\\RunningActivityController.cs",
+              "RelativeToolTip": "RunningTracker.API\\Controllers\\RunningActivityController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T17:04:13.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserProfileController.cs",
+              "DocumentMoniker": "C:\\ccv\\02 Development Projects\\RunningTracker\\RunningTracker\\RunningTracker.API\\Controllers\\UserProfileController.cs",
+              "RelativeDocumentMoniker": "RunningTracker.API\\Controllers\\UserProfileController.cs",
+              "ToolTip": "C:\\ccv\\02 Development Projects\\RunningTracker\\RunningTracker\\RunningTracker.API\\Controllers\\UserProfileController.cs",
+              "RelativeToolTip": "RunningTracker.API\\Controllers\\UserProfileController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T17:04:13.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserProfileRepository.cs",
+              "DocumentMoniker": "C:\\ccv\\02 Development Projects\\RunningTracker\\RunningTracker\\RunningTracker.Infrastructure\\Repositories\\UserProfileRepository.cs",
+              "RelativeDocumentMoniker": "RunningTracker.Infrastructure\\Repositories\\UserProfileRepository.cs",
+              "ToolTip": "C:\\ccv\\02 Development Projects\\RunningTracker\\RunningTracker\\RunningTracker.Infrastructure\\Repositories\\UserProfileRepository.cs",
+              "RelativeToolTip": "RunningTracker.Infrastructure\\Repositories\\UserProfileRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T16:55:26.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContextFactory .cs",
+              "DocumentMoniker": "C:\\ccv\\02 Development Projects\\RunningTracker\\RunningTracker\\RunningTracker.Infrastructure\\Persistence\\AppDbContextFactory .cs",
+              "RelativeDocumentMoniker": "RunningTracker.Infrastructure\\Persistence\\AppDbContextFactory .cs",
+              "ToolTip": "C:\\ccv\\02 Development Projects\\RunningTracker\\RunningTracker\\RunningTracker.Infrastructure\\Persistence\\AppDbContextFactory .cs",
+              "RelativeToolTip": "RunningTracker.Infrastructure\\Persistence\\AppDbContextFactory .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T16:55:05.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RunningActivity.cs",
+              "DocumentMoniker": "C:\\ccv\\02 Development Projects\\RunningTracker\\RunningTracker\\RunningTracker.Domain\\Entities\\RunningActivity.cs",
+              "RelativeDocumentMoniker": "RunningTracker.Domain\\Entities\\RunningActivity.cs",
+              "ToolTip": "C:\\ccv\\02 Development Projects\\RunningTracker\\RunningTracker\\RunningTracker.Domain\\Entities\\RunningActivity.cs",
+              "RelativeToolTip": "RunningTracker.Domain\\Entities\\RunningActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T16:54:19.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserProfileService.cs",
+              "DocumentMoniker": "C:\\ccv\\02 Development Projects\\RunningTracker\\RunningTracker\\RunningTracker.Application\\Services\\UserProfileService.cs",
+              "RelativeDocumentMoniker": "RunningTracker.Application\\Services\\UserProfileService.cs",
+              "ToolTip": "C:\\ccv\\02 Development Projects\\RunningTracker\\RunningTracker\\RunningTracker.Application\\Services\\UserProfileService.cs",
+              "RelativeToolTip": "RunningTracker.Application\\Services\\UserProfileService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T16:53:27.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RunningActivityService.cs",
+              "DocumentMoniker": "C:\\ccv\\02 Development Projects\\RunningTracker\\RunningTracker\\RunningTracker.Application\\Services\\RunningActivityService.cs",
+              "RelativeDocumentMoniker": "RunningTracker.Application\\Services\\RunningActivityService.cs",
+              "ToolTip": "C:\\ccv\\02 Development Projects\\RunningTracker\\RunningTracker\\RunningTracker.Application\\Services\\RunningActivityService.cs",
+              "RelativeToolTip": "RunningTracker.Application\\Services\\RunningActivityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T16:53:15.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ccv\\02 Development Projects\\RunningTracker\\RunningTracker\\RunningTracker.API\\Program.cs",
+              "RelativeDocumentMoniker": "RunningTracker.API\\Program.cs",
+              "ToolTip": "C:\\ccv\\02 Development Projects\\RunningTracker\\RunningTracker\\RunningTracker.API\\Program.cs",
+              "RelativeToolTip": "RunningTracker.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T16:51:50.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\ccv\\02 Development Projects\\RunningTracker\\RunningTracker\\RunningTracker.API\\appsettings.json",
+              "RelativeDocumentMoniker": "RunningTracker.API\\appsettings.json",
+              "ToolTip": "C:\\ccv\\02 Development Projects\\RunningTracker\\RunningTracker\\RunningTracker.API\\appsettings.json",
+              "RelativeToolTip": "RunningTracker.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-25T16:51:46.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RunningTrackerTests.cs",
+              "DocumentMoniker": "C:\\ccv\\02 Development Projects\\RunningTracker\\RunningTracker\\RunningTracker.Tests\\RunningTrackerTests.cs",
+              "RelativeDocumentMoniker": "RunningTracker.Tests\\RunningTrackerTests.cs",
+              "ToolTip": "C:\\ccv\\02 Development Projects\\RunningTracker\\RunningTracker\\RunningTracker.Tests\\RunningTrackerTests.cs",
+              "RelativeToolTip": "RunningTracker.Tests\\RunningTrackerTests.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T16:38:04.881Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

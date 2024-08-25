@@ -1,0 +1,16 @@
+C:\ccv\02 Development Projects\RunningTracker\RunningTracker\RunningTracker.Application\obj\Debug\net8.0\RunningTracker.Application.csproj.AssemblyReference.cache
+C:\ccv\02 Development Projects\RunningTracker\RunningTracker\RunningTracker.Application\obj\Debug\net8.0\RunningTracker.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\ccv\02 Development Projects\RunningTracker\RunningTracker\RunningTracker.Application\obj\Debug\net8.0\RunningTracker.Application.AssemblyInfoInputs.cache
+C:\ccv\02 Development Projects\RunningTracker\RunningTracker\RunningTracker.Application\obj\Debug\net8.0\RunningTracker.Application.AssemblyInfo.cs
+C:\ccv\02 Development Projects\RunningTracker\RunningTracker\RunningTracker.Application\obj\Debug\net8.0\RunningTracker.Application.csproj.CoreCompileInputs.cache
+C:\ccv\02 Development Projects\RunningTracker\RunningTracker\RunningTracker.Application\bin\Debug\net8.0\RunningTracker.Application.deps.json
+C:\ccv\02 Development Projects\RunningTracker\RunningTracker\RunningTracker.Application\bin\Debug\net8.0\RunningTracker.Application.dll
+C:\ccv\02 Development Projects\RunningTracker\RunningTracker\RunningTracker.Application\bin\Debug\net8.0\RunningTracker.Application.pdb
+C:\ccv\02 Development Projects\RunningTracker\RunningTracker\RunningTracker.Application\bin\Debug\net8.0\RunningTracker.Domain.dll
+C:\ccv\02 Development Projects\RunningTracker\RunningTracker\RunningTracker.Application\bin\Debug\net8.0\RunningTracker.Domain.pdb
+C:\ccv\02 Development Projects\RunningTracker\RunningTracker\RunningTracker.Application\obj\Debug\net8.0\RunningT.F8222342.Up2Date
+C:\ccv\02 Development Projects\RunningTracker\RunningTracker\RunningTracker.Application\obj\Debug\net8.0\RunningTracker.Application.dll
+C:\ccv\02 Development Projects\RunningTracker\RunningTracker\RunningTracker.Application\obj\Debug\net8.0\refint\RunningTracker.Application.dll
+C:\ccv\02 Development Projects\RunningTracker\RunningTracker\RunningTracker.Application\obj\Debug\net8.0\RunningTracker.Application.pdb
+C:\ccv\02 Development Projects\RunningTracker\RunningTracker\RunningTracker.Application\obj\Debug\net8.0\ref\RunningTracker.Application.dll
+C:\ccv\02 Development Projects\RunningTracker\RunningTracker\RunningTracker.Application\obj\Debug\net8.0\RunningTracker.Application.sourcelink.json

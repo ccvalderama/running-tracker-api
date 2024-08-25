@@ -1,0 +1,12 @@
+C:\ccv\02 Development Projects\RunningTracker\RunningTracker\RunningTracker.Domain\bin\Debug\net8.0\RunningTracker.Domain.deps.json
+C:\ccv\02 Development Projects\RunningTracker\RunningTracker\RunningTracker.Domain\bin\Debug\net8.0\RunningTracker.Domain.dll
+C:\ccv\02 Development Projects\RunningTracker\RunningTracker\RunningTracker.Domain\bin\Debug\net8.0\RunningTracker.Domain.pdb
+C:\ccv\02 Development Projects\RunningTracker\RunningTracker\RunningTracker.Domain\obj\Debug\net8.0\RunningTracker.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\ccv\02 Development Projects\RunningTracker\RunningTracker\RunningTracker.Domain\obj\Debug\net8.0\RunningTracker.Domain.AssemblyInfoInputs.cache
+C:\ccv\02 Development Projects\RunningTracker\RunningTracker\RunningTracker.Domain\obj\Debug\net8.0\RunningTracker.Domain.AssemblyInfo.cs
+C:\ccv\02 Development Projects\RunningTracker\RunningTracker\RunningTracker.Domain\obj\Debug\net8.0\RunningTracker.Domain.csproj.CoreCompileInputs.cache
+C:\ccv\02 Development Projects\RunningTracker\RunningTracker\RunningTracker.Domain\obj\Debug\net8.0\RunningTracker.Domain.dll
+C:\ccv\02 Development Projects\RunningTracker\RunningTracker\RunningTracker.Domain\obj\Debug\net8.0\refint\RunningTracker.Domain.dll
+C:\ccv\02 Development Projects\RunningTracker\RunningTracker\RunningTracker.Domain\obj\Debug\net8.0\RunningTracker.Domain.pdb
+C:\ccv\02 Development Projects\RunningTracker\RunningTracker\RunningTracker.Domain\obj\Debug\net8.0\ref\RunningTracker.Domain.dll
+C:\ccv\02 Development Projects\RunningTracker\RunningTracker\RunningTracker.Domain\obj\Debug\net8.0\RunningTracker.Domain.sourcelink.json
